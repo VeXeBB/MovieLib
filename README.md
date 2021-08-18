@@ -1,5 +1,5 @@
 # MovieLib
-This is kind of "Movie Library" made by my for Kodilla course using themoviedatabe.com API.
+This is kind of "Movie Library" made by my using themoviedatabe.com API.
 
 ## Getting Started
 
